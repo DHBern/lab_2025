@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-01-22T15:21:00.961404+01:00</Created>
+        <LastChange>2024-01-24T12:23:49.148807+01:00</LastChange>
+  </Metadata>
+  <Page imageFilename="typewriter.jpeg" imageWidth="1400" imageHeight="1980">
+    <TextRegion id="eSc_textblock_da7af2e3"  custom="structure {type:Main;}">
+      <Coords points="47,300 47,652 1231,652 1229,307"/>
+      <TextLine id="eSc_line_59a6603c" custom="structure {type:default;}">
+        <Coords points="92,204 92,216 1144,222 1145,204 1145,179 92,178 92,204"/>
+        <Baseline points="94,206 1147,206"/>
+        <TextEquiv>
+          <Unicode>Why Writing On A Typewriter Feels So Strangely Modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d9fec4c" custom="structure {type:default;}">
+        <Coords points="92,237 92,250 236,260 255,252 279,260 374,252 399,262 562,262 574,252 648,260 733,252 744,260 787,252 815,260 846,252 870,260 1106,255 1106,216 92,214 92,237"/>
+        <Baseline points="93,239 1107,239"/>
+        <TextEquiv>
+          <Unicode>Years of voice dictation trained me to think before I write</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e81cfd28" custom="structure {type:default;}">
+        <Coords points="94,270 94,282 245,280 247,268 242,245 92,245 94,270"/>
+        <Baseline points="95,272 248,270"/>
+        <TextEquiv>
+          <Unicode>I write</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dce053f5" custom="structure {type:default;}">
+        <Coords points="90,336 89,349 99,358 100,358 102,358 104,358 156,349 170,358 171,358 173,358 175,358 176,358 194,349 488,359 490,359 491,359 520,351 521,351 529,359 531,359 533,359 534,359 579,353 591,351 721,351 723,354 729,359 729,361 731,361 733,361 734,361 941,356 942,341 941,315 90,310 90,336"/>
+        <Baseline points="92,338 943,343"/>
+        <TextEquiv>
+          <Unicode>So, I wrote this blog post on a typewriter.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f6fbb29" custom="structure {type:default;}">
+        <Coords points="90,386 90,396 132,404 133,404 179,392 179,382 175,354 89,356 90,386"/>
+        <Baseline points="91,387 180,383"/>
+        <TextEquiv>
+          <Unicode>Why?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a269093" custom="structure {type:default;}">
+        <Coords points="90,433 89,443 100,452 102,452 104,452 105,452 1144,450 1145,438 1145,410 90,404 90,433"/>
+        <Baseline points="91,434 1146,440"/>
+        <TextEquiv>
+          <Unicode>Well, it&#x27;s a bit of a story. But it winds itself back</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02f5f592" custom="structure {type:default;}">
+        <Coords points="94,483 92,496 1150,503 1154,486 1154,460 94,457 94,483"/>
+        <Baseline points="95,484 1155,488"/>
+        <TextEquiv>
+          <Unicode>towards our modern compositional practices in our age</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6909bbc3" custom="structure {type:default;}">
+        <Coords points="90,534 90,547 404,547 404,534 404,511 90,511 90,534"/>
+        <Baseline points="92,536 406,536"/>
+        <TextEquiv>
+          <Unicode>of smartphones.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de405309" custom="structure {type:default;}">
+        <Coords points="90,584 90,597 594,598 595,584 595,559 90,557 90,584"/>
+        <Baseline points="92,585 596,585"/>
+        <TextEquiv>
+          <Unicode>Let me unpack that a bit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_62375465"  custom="structure {type:Main;}">
+      <Coords points="52,682 52,1701 1258,1701 1258,682"/>
+      <TextLine id="eSc_line_47065f2d" custom="structure {type:default;}">
+        <Coords points="92,732 90,740 1170,742 1173,730 1170,702 92,702 92,732"/>
+        <Baseline points="94,733 290,729 1175,732"/>
+        <TextEquiv>
+          <Unicode>Back when I was in college -- in the late 80s and early</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2381eeae" custom="structure {type:default;}">
+        <Coords points="94,777 92,787 99,793 99,795 100,795 102,795 104,795 1191,788 1193,780 1191,755 94,754 94,777"/>
+        <Baseline points="95,778 1194,781"/>
+        <TextEquiv>
+          <Unicode>90s -- I did not, at first, own a computer. When I wrote</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3331859" custom="structure {type:default;}">
+        <Coords points="95,821 94,829 137,843 229,843 241,833 463,833 473,843 589,834 678,844 713,836 721,844 764,836 840,844 881,836 936,846 977,838 998,846 1154,841 1155,828 1154,803 95,796 95,821"/>
+        <Baseline points="96,823 1157,829"/>
+        <TextEquiv>
+          <Unicode>essays, I&#x27;d do the entire thing by hand, then sit down</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d5000e2" custom="structure {type:default;}">
+        <Coords points="94,871 92,879 130,891 132,891 133,891 135,891 168,882 392,891 394,891 396,891 420,882 425,882 435,884 493,892 495,892 496,892 520,884 523,884 526,884 564,892 566,892 691,886 746,884 817,884 823,887 833,894 835,894 837,894 838,894 879,887 899,886 909,889 926,894 927,894 929,894 955,889 974,886 1185,891 1188,876 1187,853 94,848 94,871"/>
+        <Baseline points="95,872 1190,877"/>
+        <TextEquiv>
+          <Unicode>and -- in a very long all-nighter -- type the thing out.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a9a8ef7" custom="structure {type:default;}">
+        <Coords points="94,920 94,932 1092,933 1094,920 1094,899 94,899 94,920"/>
+        <Baseline points="95,922 1095,922"/>
+        <TextEquiv>
+          <Unicode>I was still living at home for the first year of my</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d333f85f" custom="structure {type:default;}">
+        <Coords points="95,968 94,976 135,986 137,986 1203,985 1205,971 1203,947 95,943 95,968"/>
+        <Baseline points="97,970 1206,973"/>
+        <TextEquiv>
+          <Unicode>degree, and my family possessed an old manual typewriter;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_540998cf" custom="structure {type:default;}">
+        <Coords points="99,1014 97,1023 1167,1027 1170,1019 1168,994 99,990 99,1014"/>
+        <Baseline points="100,1015 1171,1021"/>
+        <TextEquiv>
+          <Unicode>this being Canada, it had a specific key for typing the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e35eecc" custom="structure {type:default;}">
+        <Coords points="95,1062 94,1075 97,1079 99,1079 99,1080 100,1080 102,1080 166,1082 168,1082 242,1074 259,1082 260,1082 262,1084 363,1084 363,1082 364,1082 366,1082 376,1074 1160,1082 1163,1065 1162,1041 95,1037 95,1062"/>
+        <Baseline points="97,1064 1164,1067"/>
+        <TextEquiv>
+          <Unicode>British pound. It was a thoroughly dreadful experience,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23481c0a" custom="structure {type:default;}">
+        <Coords points="95,1110 94,1118 264,1130 265,1130 341,1122 650,1131 652,1131 653,1131 655,1131 666,1123 850,1123 853,1123 865,1131 866,1131 868,1131 870,1131 1201,1125 1203,1113 1201,1087 95,1084 95,1110"/>
+        <Baseline points="96,1111 1205,1114"/>
+        <TextEquiv>
+          <Unicode>and I couldn&#x27;t wait to own my own damn computer, like the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4319e132" custom="structure {type:default;}">
+        <Coords points="94,1159 94,1168 310,1179 312,1179 313,1179 315,1179 325,1171 326,1169 330,1171 346,1178 348,1178 350,1178 351,1178 369,1171 376,1169 1063,1176 1064,1159 1064,1136 94,1136 94,1159"/>
+        <Baseline points="95,1160 1066,1160"/>
+        <TextEquiv>
+          <Unicode>ones I used to write stories at the campus papers.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9a57701" custom="structure {type:default;}">
+        <Coords points="97,1222 97,1232 1106,1230 1107,1221 1104,1196 183,1189 181,1189 95,1197 97,1222"/>
+        <Baseline points="99,1224 1109,1222"/>
+        <TextEquiv>
+          <Unicode>But I was strapped for cash, so I kept on using that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d46a831" custom="structure {type:default;}">
+        <Coords points="95,1268 94,1277 1160,1282 1163,1270 1162,1245 95,1244 95,1268"/>
+        <Baseline points="97,1269 1165,1271"/>
+        <TextEquiv>
+          <Unicode>antediluvian beast of a machine. At the end of my first</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ecd98a37" custom="structure {type:default;}">
+        <Coords points="97,1320 97,1329 1069,1326 1071,1316 1068,1291 95,1291 97,1320"/>
+        <Baseline points="99,1320 432,1315 1072,1318"/>
+        <TextEquiv>
+          <Unicode>year, I saved up enough money to buy a more modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_825fbda7" custom="structure {type:default;}">
+        <Coords points="97,1364 97,1372 1106,1374 1107,1364 1107,1339 97,1339 97,1364"/>
+        <Baseline points="99,1365 1108,1365"/>
+        <TextEquiv>
+          <Unicode>electronic typewriter, which had build in correction</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65f7f52a" custom="structure {type:default;}">
+        <Coords points="100,1410 99,1417 141,1427 143,1428 244,1428 244,1427 245,1427 262,1419 269,1419 437,1427 439,1427 440,1427 458,1419 460,1419 516,1419 518,1419 525,1425 525,1427 526,1427 528,1427 529,1427 1158,1420 1160,1412 1158,1384 100,1384 100,1410"/>
+        <Baseline points="101,1412 805,1410 1162,1414"/>
+        <TextEquiv>
+          <Unicode>tape and a wee bit of memory; you could hit a button if</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_805405f7" custom="structure {type:default;}">
+        <Coords points="95,1458 95,1473 171,1465 1084,1466 1087,1456 1084,1432 94,1432 95,1458"/>
+        <Baseline points="97,1459 587,1455 1089,1458"/>
+        <TextEquiv>
+          <Unicode>you made a mistake and it would erase the last word</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b714e6b" custom="structure {type:default;}">
+        <Coords points="95,1503 94,1514 102,1521 104,1521 105,1521 107,1521 165,1513 178,1521 179,1521 181,1521 183,1521 227,1513 265,1513 384,1513 386,1513 394,1521 396,1521 397,1521 399,1521 458,1514 472,1513 508,1514 668,1522 670,1522 721,1516 737,1514 1175,1519 1178,1506 1178,1480 95,1478 95,1503"/>
+        <Baseline points="97,1504 668,1502 1180,1508"/>
+        <TextEquiv>
+          <Unicode>all on its own (or, in models yet more elite, the entire</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2538905" custom="structure {type:default;}">
+        <Coords points="95,1552 95,1562 698,1555 700,1546 696,1521 399,1514 397,1514 396,1514 394,1514 394,1516 386,1522 104,1518 102,1518 100,1518 99,1518 99,1519 94,1522 95,1552"/>
+        <Baseline points="97,1553 701,1547"/>
+        <TextEquiv>
+          <Unicode>last line). It felt like magic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_112fe33b" custom="structure {type:default;}">
+        <Coords points="97,1617 97,1621 600,1621 660,1628 690,1631 691,1631 756,1630 911,1623 1190,1633 1193,1618 1193,1590 97,1584 97,1617"/>
+        <Baseline points="99,1617 338,1610 709,1610 1194,1619"/>
+        <TextEquiv>
+          <Unicode>I never actually composed any new text on the typewriter,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_427f35ef" custom="structure {type:default;}">
+        <Coords points="102,1656 100,1674 171,1676 179,1686 241,1671 287,1683 310,1674 325,1686 378,1671 643,1671 655,1683 663,1683 680,1673 772,1674 785,1687 792,1687 832,1674 843,1686 949,1691 1215,1686 1216,1636 564,1625 462,1631 411,1623 102,1628 102,1656"/>
+        <Baseline points="104,1658 724,1656 1217,1665"/>
+        <TextEquiv>
+          <Unicode>though. It felt too hard on my brain, holding an utterance</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b8e1a0de"  custom="structure {type:Title;}">
+      <Coords points="52,148 52,294 1223,294 1223,148"/>
+    </TextRegion>
+  </Page>
+</PcGts>
